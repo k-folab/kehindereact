@@ -1,0 +1,17 @@
+.hello-wrapper {
+  display: flex;
+  justify-content: center;
+  margin: 56px 0 10px 0;
+  position: relative;
+}
+
+.hello {
+  border: 1px solid #171717;
+  color: black;
+  padding: 10px 25px;
+  border-radius: 35px;
+  width: fit-content;
+}
+.taye {
+  color: #fd853a;
+}
