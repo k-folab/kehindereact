@@ -8,7 +8,7 @@ export default function HeroSection() {
         <div className="hello">Hello!</div>
       </div>
       <div className="lolu">
-        I'm <span className="taye">Tayelolu</span> ,
+        I'm <span className="taye">kehinde</span> ,
         <br /> Web Developer
       </div>
       <div className="woman">
