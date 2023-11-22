@@ -45,7 +45,7 @@ li {
   margin: -5.3% 18%;
   position: absolute;
 }
-.lolu {
+.omo {
   font-size: 60px;
   text-align: center;
   font-weight: 600;
@@ -53,4 +53,10 @@ li {
 }
 .main {
   position: relative;
+}
+
+.logo {
+  background-color: #fd853a;
+  border-radius: 50px;
+  padding: 10px 5px;
 }

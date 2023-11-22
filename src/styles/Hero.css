@@ -1,3 +1,13 @@
+.sign-wrapper {
+  position: relative;
+}
+
+.sign {
+  position: absolute;
+  margin-top: -75px;
+  margin-left: 44.5rem;
+}
+
 .hello-wrapper {
   display: flex;
   justify-content: center;
@@ -12,6 +22,47 @@
   border-radius: 35px;
   width: fit-content;
 }
-.taye {
+.kenny {
   color: #fd853a;
+}
+
+.quoted-words {
+  position: relative;
+}
+
+.quote {
+  position: absolute;
+  margin-top: 70px;
+  margin-left: 100px;
+}
+
+.words {
+  position: absolute;
+  margin-top: 130px;
+  margin-left: 100px;
+  /* font-size: 20px; */
+  font-weight: 500;
+  color: var(--gray-700, #344054);
+}
+
+.stars-words {
+  position: relative;
+}
+
+.stars {
+  position: absolute;
+  margin-left: 70rem;
+  margin-top: 70px;
+}
+
+.exp-word {
+  position: absolute;
+  margin-top: 130px;
+  margin-left: 70rem;
+}
+
+.years {
+  font-size: 47px;
+  color: var(--gray-900, #171717);
+  font-weight: 700;
 }
